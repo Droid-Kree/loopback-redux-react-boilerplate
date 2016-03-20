@@ -5,7 +5,7 @@ A boilerplate for a Redux-React application using LoopBack
 ### Get Started
 - **Clone this repository or use npm**
 ```bash
-$ git clone https://github.com/tngan/loopback-redux-react-boilerplate.git
+$ git clone https://github.com/Droid-Kree/loopback-redux-react-boilerplate.git
 ```
 ```bash
 $ npm install loopback-redux-react-boilerplate
